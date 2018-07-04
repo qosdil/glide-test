@@ -5,13 +5,14 @@ Playing around with [Glide](https://glide.sh/).
 ## Prerequisites
 * Go v1.10
 * Glide (latest version)
-* `$GOPATH/src` directory is present for Glide to work
 
 ## Build
 
 Make sure that your system has met the prerequisites above before running the following build steps.
 
 ### 1. Clone The Repository
+
+Clone the repo under your `$GOPATH/src` directory.
 
 ### 2. Install Dependencies
 
