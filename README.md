@@ -5,6 +5,7 @@ Playing around with [Glide](https://glide.sh/).
 ## Prerequisites
 * Go v1.10
 * Glide (latest version)
+* `$GOPATH/src` directory is present for Glide to work
 
 ## Build
 
