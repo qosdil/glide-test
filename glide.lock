@@ -1,6 +1,8 @@
-hash: 7cc6d395c74eefc8ce059421130e8ab9edae32f342eaf670d12b77c59d31c8ab
-updated: 2018-07-04T12:20:46.263073+07:00
+hash: 5f6c3ae1e91499e0f8f11fa8016822e90e4d72afff6c82032b0dd27439cf67cc
+updated: 2018-07-05T11:45:15.877947+07:00
 imports:
-- name: github.com/qosdil/go_calc
+- name: bitbucket.org/qosdil/go-calc
   version: 3f43451b184868540d9424d22ebb30df6ca3ac18
+  repo: git@bitbucket.org:qosdil/go-calc.git
+  vcs: git
 testImports: []

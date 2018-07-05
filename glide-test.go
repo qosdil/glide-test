@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	go_calc "github.com/qosdil/go_calc"
+	go_calc "bitbucket.org/qosdil/go-calc"
 )
 
 func main() {
